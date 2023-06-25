@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bookmark-landing-page/static/css/main.02d7d7a3.css",
+    "main.js": "/bookmark-landing-page/static/js/main.bba10cf2.js",
+    "static/js/787.46729148.chunk.js": "/bookmark-landing-page/static/js/787.46729148.chunk.js",
+    "static/media/illustration-hero.png": "/bookmark-landing-page/static/media/illustration-hero.b3cb9fbad9823754d768.png",
+    "static/media/illustration-features-tab-2.png": "/bookmark-landing-page/static/media/illustration-features-tab-2.73236188066d849bb3b5.png",
+    "static/media/illustration-features-tab-3.png": "/bookmark-landing-page/static/media/illustration-features-tab-3.b5d80dfaa4ecaaa8245c.png",
+    "index.html": "/bookmark-landing-page/index.html",
+    "static/media/icon-error.svg": "/bookmark-landing-page/static/media/icon-error.a46cc66573dea1a15acb.svg",
+    "main.02d7d7a3.css.map": "/bookmark-landing-page/static/css/main.02d7d7a3.css.map",
+    "main.bba10cf2.js.map": "/bookmark-landing-page/static/js/main.bba10cf2.js.map",
+    "787.46729148.chunk.js.map": "/bookmark-landing-page/static/js/787.46729148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d7d7a3.css",
+    "static/js/main.bba10cf2.js"
+  ]
+}
